@@ -1,0 +1,4 @@
+These are my GitHub learning notes.
+- GitHub helps track changes.
+- Repositories store projects.
+- Commits save edits.
