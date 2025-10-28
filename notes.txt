@@ -2,3 +2,4 @@ These are my GitHub learning notes.
 - GitHub helps track changes.
 - Repositories store projects.
 - Commits save edits.
+Branches help you work on new ideas without affecting the main project
